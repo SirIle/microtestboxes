@@ -1,6 +1,6 @@
 {
   "service": {
-    "name": "hello",
+    "name": "nodehello",
     "tags": ["nodeservice"],
     "port": 80
   }

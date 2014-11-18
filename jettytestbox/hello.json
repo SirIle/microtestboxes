@@ -1,6 +1,6 @@
 {
   "service": {
-    "name": "hello",
+    "name": "jettyhello",
     "tags": ["jettyservice"],
     "port": 80
   }
