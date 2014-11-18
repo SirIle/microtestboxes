@@ -1,0 +1,9 @@
+docker kill cadvisor
+docker rm cadvisor
+docker kill jettybox
+docker rm jettybox
+docker kill nodebox
+docker rm nodebox
+docker kill consul
+docker rm consul
+sudo weave stop

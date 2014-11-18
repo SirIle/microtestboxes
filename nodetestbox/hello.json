@@ -1,0 +1,7 @@
+{
+  "service": {
+    "name": "hello",
+    "tags": ["nodeservice"],
+    "port": 80
+  }
+}

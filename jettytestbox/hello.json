@@ -1,0 +1,7 @@
+{
+  "service": {
+    "name": "hello",
+    "tags": ["jettyservice"],
+    "port": 80
+  }
+}

@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /
+java -jar /opt/files/jetty/jetty/start.jar
