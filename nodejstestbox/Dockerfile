@@ -1,4 +1,4 @@
-FROM sirile/nodebox
+FROM sirile/nodejsbox
 MAINTAINER Ilkka Anttonen version: 0.1
 COPY express.js express.js
 COPY node_modules node_modules

@@ -1,2 +1,2 @@
-( cd nodetestbox && docker build -t sirile/nodetestbox . )
+( cd nodejstestbox && docker build -t sirile/nodejstestbox . )
 ( cd jettytestbox && docker build -t sirile/jettytestbox . )
